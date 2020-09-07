@@ -1,0 +1,22 @@
+{
+  "name": "stock-google-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariannefeng/stock-google-sheets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariannefeng/stock-google-sheets/issues"
+  },
+  "homepage": "https://github.com/mariannefeng/stock-google-sheets#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.15"
+  }
+}
